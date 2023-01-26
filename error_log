@@ -1,0 +1,171 @@
+[20-Dec-2022 17:46:00 Africa/Luanda] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/oprivado/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 63
+[20-Dec-2022 17:46:11 Africa/Luanda] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/oprivado/public_html/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesLayouts.php on line 155
+[20-Dec-2022 17:46:24 Africa/Luanda] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/oprivado/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 63
+[20-Dec-2022 17:46:25 Africa/Luanda] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/oprivado/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 63
+[27-Dec-2022 04:39:16 Africa/Luanda] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 94208 bytes) in /home/oprivado/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[08-Jan-2023 04:40:06 Africa/Luanda] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/oprivado/public_html/app/Http/Controllers/PagesController.php on line 12
+[08-Jan-2023 04:41:22 Africa/Luanda] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/oprivado/public_html/app/Http/Controllers/PagesController.php on line 12
+[08-Jan-2023 22:26:16 Africa/Luanda] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AddFundsController::send() in /home/oprivado/public_html/app/Http/Controllers/AddFundsController.php on line 305
+[08-Jan-2023 22:26:33 Africa/Luanda] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AddFundsController::send() in /home/oprivado/public_html/app/Http/Controllers/AddFundsController.php on line 306
+[08-Jan-2023 22:28:25 Africa/Luanda] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AddFundsController::send() in /home/oprivado/public_html/app/Http/Controllers/AddFundsController.php on line 306
+[14-Jan-2023 00:00:40 Africa/Luanda] PHP Fatal error:  Can't use method return value in write context in /home/oprivado/public_html/storage/framework/views/78e6019c0b5d717773eaec2c5ae3a2a28172de13.php on line 118
+[19-Jan-2023 18:23:23 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:23 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:23 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:23 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:23 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:23 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:24 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:24 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:28 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:28 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:28 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:28 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:31 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:31 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:32 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:32 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:33 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:33 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:34 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:34 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:36 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:36 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:37 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:37 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:23:38 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:23:38 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:00 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:00 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:00 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:00 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:01 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:01 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:01 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:01 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:01 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:01 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:02 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:02 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:03 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:03 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:03 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:03 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:03 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:03 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:04 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:04 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:04 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:04 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:05 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:05 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:08 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:08 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:09 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:09 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:10 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:10 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:10 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:10 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:11 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:11 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:14 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:14 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:14 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:14 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:20 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:20 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:24 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:24 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:24 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:24 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:24 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:24 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:26 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:26 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:26 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:26 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:27 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:27 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:30 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:30 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:30 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:30 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:34 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:34 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:37 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:37 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:37 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:37 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:40 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:40 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:42 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:42 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:43 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:43 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:45 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:45 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:47 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:47 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[19-Jan-2023 18:24:48 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[19-Jan-2023 18:24:48 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:17:10 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:17:10 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:17:24 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:17:24 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:17:25 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:17:25 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:17:28 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:17:28 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:17:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:17:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:17:37 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:17:37 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:17:39 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:17:39 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:18:28 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:18:28 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:18:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:18:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:18:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:18:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:18:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:18:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:18:45 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:18:45 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:18:52 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:18:52 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:18:58 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:18:58 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:18:58 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:18:58 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:03 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:03 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:07 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:07 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:10 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:10 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:13 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:13 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:18 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:18 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:19 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:19 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:21 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:21 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:29 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:29 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[20-Jan-2023 04:19:43 Africa/Luanda] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/oprivado/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[20-Jan-2023 04:19:43 Africa/Luanda] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
